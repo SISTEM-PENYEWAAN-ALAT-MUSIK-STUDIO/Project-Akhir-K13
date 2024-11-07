@@ -34,11 +34,15 @@ Jika pilih 2, maka anda akan Login sebagai Penyewa, dapat melakukan Lihat barang
 
 ![image](https://github.com/user-attachments/assets/9b3cd5eb-cb0c-4a3d-975f-83903ba72768)
 
-Masukkan Username dan Password Admin dengan benar, lalu akan berhasil Login dan akan muncul Menu Admin
+Masukkan Username dan Password Admin dengan benar, lalu akan berhasil Login dan akan muncul Menu Admin.
 
 ![image](https://github.com/user-attachments/assets/cfa30019-7aa2-4b92-9970-2345c3a03eb6)
 
 Masukkan pilihan menu sesuai dengan kebutuhan Admin.
+
+Jika Username dan Password Admin salah, maka akan kembali ke Menu Login
+
+![image](https://github.com/user-attachments/assets/fb1231b1-1f6b-4309-809a-f7fed2be2d8a)
 
 # Penjelasan Menu Admin
 
@@ -127,3 +131,28 @@ Jika sudah tidak ada didalam daftar barang, maka barang yang sudah dihapus tadi 
 Jika muncul "Logout berhasil", maka anda sudah tidak didalam Menu Admin lagi. 
 
 Dan akan kembali ke Menu Login
+
+# Login Sebagai Penyewa
+
+Pilih Menu "2", Untuk masuk sebagai Penyewa,
+
+Jika Penyewa sudah memiliki akun maka Penyewa dapat langsung Login.
+
+![image](https://github.com/user-attachments/assets/c515947d-7b37-458c-bef8-d91b78695f70)
+
+![image](https://github.com/user-attachments/assets/7d5f62ae-0c95-4db2-adae-d8a2780ec7b7)
+
+![image](https://github.com/user-attachments/assets/35ff457e-1668-456f-9a90-9b9548bdf5b1)
+
+Masukkan Username dan Password Penyewa dengan benar, jika benar Penyewa akan berhasil Login dan muncul Menu Penyewa.
+
+![image](https://github.com/user-attachments/assets/ed9ab1b1-a492-46c5-a8c7-5586be1f8f15)
+
+Masukkan pilihan menu yang dibutuhkan oleh Penyewa.
+
+Jika Username dan Password salah, maka akan akan kembali ke Menu Login. 
+
+![image](https://github.com/user-attachments/assets/e6a6e6b3-78d0-4ee9-99f4-8c91c50e5b20)
+
+# Penjelasan Menu Penyewa
+
