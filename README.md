@@ -157,5 +157,51 @@ Jika Username dan Password salah, maka akan akan kembali ke Menu Login.
 # Penjelasan Menu Penyewa
 
 1. Lihat Barang
-   
-ffg
+
+   Pilih menu "1", untuk melihat Barang yang tersedia
+
+![225c61f4-866f-4e2d-8b2a-a4cb3bf082f2](https://github.com/user-attachments/assets/27c38818-6463-41e9-964a-e1a5dcf0e937)
+
+![fca87e73-2435-4cd9-9fa8-3b38c7bffd1a](https://github.com/user-attachments/assets/448587ce-f2dd-4a0b-862b-27b2a32ca138)
+
+Setelah itu muncul Nama Barang, Harga barang dan Stok barang.
+
+2. Cari Barang
+
+   Pilih menu "2", untuk mencari barang yang ingin disewa
+
+   ![cd66cb68-b70a-4916-93cb-7da1c3b6b183](https://github.com/user-attachments/assets/34e71d9c-afba-46e4-bcc9-cce98766c686)
+
+Masukkan Nama barang yang dicari, lalu akan muncul barang yang penyewa cari
+
+![f97dea13-6429-440d-a603-59c76f39b6a4](https://github.com/user-attachments/assets/94bb161c-ffee-4a89-a58a-8b668c6fb1ad)
+
+3. Sewa Barang
+
+   Pilih menu "3", jika penyewa ingin menyewa barang alat musik studio
+    
+![de3a7ad4-b809-4c93-ae69-f0000cc5b9b4](https://github.com/user-attachments/assets/d98e8caf-8441-4a84-9c35-6dc4b62129eb)
+
+Lalu akan muncul list barang, penyewa memasukkan nomor barang dan waktu penyewaan dalam berapa hari dan tanggal,bulan,tahun penyewaan dan konfirmasi kepada penyewa.
+
+Jika "iya", struk penyewaan akan muncul bahwa barng sudah disewa.
+
+![217c1a83-15b9-40a8-b44e-012a7085b849](https://github.com/user-attachments/assets/52e2fb7b-636a-4bbf-a656-652d446e2b04)
+
+Jika "tidak", Maka otomatis penyewaan dibatalkan 
+
+![1de5fc74-f885-48c7-93c2-343417b667e9](https://github.com/user-attachments/assets/7e63d2d3-fa78-4f80-b32a-de22a4ce65e2)
+
+4. Tambah Saldo
+
+  Pilih "4", Fitur untuk penyewa untuk menambahkan saldo 
+
+  ![d6ed9f0a-d020-42a3-8310-7a0c0ea4210e](https://github.com/user-attachments/assets/3e9db0bb-827a-4845-82b8-e5a476f1c843)
+
+  Masukkan nominal saldo yang ingin di tambahkan, Saldo berhasil ditambahkan
+
+  maka saldo yang baru saja ditambahkan akan menghasilkan output berupa total saldo yang dimiliki penyewa.
+
+  ![c15b20e0-02f8-4550-a9b2-39d8df05bc56](https://github.com/user-attachments/assets/7a0682d8-00ae-4d82-8bf4-67991686c835)
+
+
