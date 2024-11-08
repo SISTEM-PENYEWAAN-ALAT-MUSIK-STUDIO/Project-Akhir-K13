@@ -188,6 +188,9 @@ Jika "iya", struk penyewaan akan muncul bahwa barng sudah disewa.
 
 ![217c1a83-15b9-40a8-b44e-012a7085b849](https://github.com/user-attachments/assets/52e2fb7b-636a-4bbf-a656-652d446e2b04)
 
+![WhatsApp Image 2024-11-08 at 18 10 02_5f155da1](https://github.com/user-attachments/assets/7d17d787-1051-465a-9f79-2240139e0680)
+
+
 Jika "tidak", Maka otomatis penyewaan dibatalkan 
 
 ![1de5fc74-f885-48c7-93c2-343417b667e9](https://github.com/user-attachments/assets/7e63d2d3-fa78-4f80-b32a-de22a4ce65e2)
