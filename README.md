@@ -158,3 +158,4 @@ Jika Username dan Password salah, maka akan akan kembali ke Menu Login.
 
 1. Lihat Barang
    
+![a6e0fbb7-9a8c-4d66-905d-7421667383a4](https://github.com/user-attachments/assets/756f1475-bea4-46ae-8211-4fb7c5524756)
