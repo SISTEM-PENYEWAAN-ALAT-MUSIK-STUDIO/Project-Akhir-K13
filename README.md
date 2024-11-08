@@ -157,4 +157,55 @@ Jika Username dan Password salah, maka akan akan kembali ke Menu Login.
 # Penjelasan Menu Penyewa
 
 1. Lihat Barang
+
+  Pilih menu "1", Jika ingin melihat barang, harga barang, dan stok barang
    
+![e43acb5d-fa96-4cd1-8f5a-d0663d47e411](https://github.com/user-attachments/assets/0201d030-2fd5-49cd-8ae6-13432b852399)
+
+![dd8ce141-c96a-4621-baf0-4aea925eadb8](https://github.com/user-attachments/assets/69087c15-fd51-4f21-8a90-a7ec76058e46)
+
+Penyewa apat melihat barang.
+
+2. Cari Barang
+
+   Pilih menu "2", Untuk penyewa mencari barang yang dibutuhkan
+
+   ![026262ec-16b6-455c-9014-01a325472ae9](https://github.com/user-attachments/assets/5fe1d103-7964-447b-b332-9df52bcdad9a)
+
+![31a61692-05ce-4dcf-a750-b48d9207ae42](https://github.com/user-attachments/assets/f51c424a-d3a8-49c3-8b81-8c56ce419fa0)
+
+Masukkan nama barang yang dicari setelah itu akan muncul Nama Barang.
+
+3. Sewa Barang
+
+  Pilih menu "3", Jika penyewa ingin menyewa Barang alat Musik Studio
+
+  ![2f4a5b3b-3ea4-44f7-b0ba-f20fb3392e22](https://github.com/user-attachments/assets/c48f52ef-a796-4931-944b-df0102b537c5)
+
+![b8fa0189-1880-49ff-ba7b-e88f6d455882](https://github.com/user-attachments/assets/248babf9-a622-46b0-afc4-1d5b758c8734)
+
+Akan muncul nama barang, harga barang dan stok barang untuk mempermudah penyewa 
+
+Masukkan nomor barang yang ingin disewa, masukkan berapa lama ingin menyewa, dan masukkan tanggal- bulan- tahun Menyewa
+
+Lalu ada konfirmasi untuk memastikan apakah penyewa ingin melanjutkan penyewaan 
+
+Jika "iya", Akan muncul struk Menyewa untuk penyewaan 
+
+![0886eefe-3964-44d9-8622-2f2e819b16f5](https://github.com/user-attachments/assets/819ceac0-eaf0-43d3-aa17-a1ac598952d8)
+
+Jika struk sudah muncul maka transaksi untuk penyewaan sudah berhasil.
+
+Jika "tidak", Maka penyewaan batal
+
+![c091e610-e43e-4f77-a755-bd8b73f9303b](https://github.com/user-attachments/assets/bf36e731-d69b-4a9d-a8a4-ff2450120f95)
+
+4. Tambah Saldo
+
+  Pilih menu "4", Jika penyewa ingin TopUp Saldo
+
+  ![4e04ac55-5c49-4bb5-9397-9072e0b9798c](https://github.com/user-attachments/assets/425216b1-bacd-4a9d-b15a-c65e119814bf)
+
+![72823f4d-df53-4f24-a8f1-1f8a6e91d9f3](https://github.com/user-attachments/assets/ba369178-a0c0-4dce-aa1b-557a62598677)
+
+Penyewa dapat memasukkan nominal 
