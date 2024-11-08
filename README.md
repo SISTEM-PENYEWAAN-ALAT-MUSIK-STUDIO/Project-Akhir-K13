@@ -132,9 +132,12 @@ Jika muncul "Logout berhasil", maka anda sudah tidak didalam Menu Admin lagi.
 
 Dan akan kembali ke Menu Login
 
+![image](https://github.com/user-attachments/assets/ca7c181e-1cb8-4a5d-aec1-52b62ec7b4e7)
+
+
 # Login Sebagai Penyewa
 
-Pilih Menu "2", Untuk masuk sebagai Penyewa,
+  Pilih Menu "2", Untuk masuk sebagai Penyewa,
 
 Jika Penyewa sudah memiliki akun maka Penyewa dapat langsung Login.
 
@@ -197,7 +200,7 @@ Jika "tidak", Maka otomatis penyewaan dibatalkan
 
 4. Tambah Saldo
 
-  Pilih "4", Fitur untuk penyewa untuk menambahkan saldo 
+    Pilih "4", Fitur untuk penyewa untuk menambahkan saldo 
 
   ![d6ed9f0a-d020-42a3-8310-7a0c0ea4210e](https://github.com/user-attachments/assets/3e9db0bb-827a-4845-82b8-e5a476f1c843)
 
@@ -207,4 +210,30 @@ Jika "tidak", Maka otomatis penyewaan dibatalkan
 
   ![c15b20e0-02f8-4550-a9b2-39d8df05bc56](https://github.com/user-attachments/assets/7a0682d8-00ae-4d82-8bf4-67991686c835)
 
+5. Cek Saldo
 
+   Pilih menu "5", untuk mengecek berapa saldo yang dimiliki penyewa
+
+![image](https://github.com/user-attachments/assets/60156f89-cd36-4328-987e-d451db3d0ad9)
+
+Setelah itu, muncul saldo yang dimiliki oleh penyewa 
+
+![image](https://github.com/user-attachments/assets/e5d6da71-8f4e-458a-8b56-f574bdeed53a)
+
+6. Logout
+
+   Pilih menu "6", Jika penyewa sudah selesai melakukan aktivitas di dalam penyewaan alat musik studio
+
+![image](https://github.com/user-attachments/assets/0e7a4011-2b52-4ba1-9b1e-b87a8858f2cf)
+
+Setelah berhasil logout, maka akan kembali ke Menu Login
+
+![image](https://github.com/user-attachments/assets/25779510-7f2e-4afd-9423-c86aabf0424b)
+
+# Keluar
+
+![image](https://github.com/user-attachments/assets/8b043580-deab-4bcb-8f7b-b3fa89949bb3)
+
+Maka sudah keluar dari program Sistem Penyewaan Alat Musik Studio
+
+![image](https://github.com/user-attachments/assets/f099d588-117e-4755-b2d3-518673a37c94)
