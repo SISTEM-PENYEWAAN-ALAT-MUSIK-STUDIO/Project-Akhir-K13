@@ -230,6 +230,19 @@ Setelah berhasil logout, maka akan kembali ke Menu Login
 
 ![image](https://github.com/user-attachments/assets/25779510-7f2e-4afd-9423-c86aabf0424b)
 
+# Registrasi Penyewa
+
+![{068266A9-F2FA-4831-953A-19FB65EFD989}](https://github.com/user-attachments/assets/3928b174-9d9b-404f-a4d7-1d44654d6102)
+
+Masukan Nama dan Password yang akan didaftarkan
+Jika Nama yang di masukan belum terdaftar maka registrasi berhasil
+
+![{8A58CA32-7001-4231-848E-9AA29CB25C62}](https://github.com/user-attachments/assets/bc2dc60a-56cf-4387-850c-21aa4b0a5b74)
+
+Jika Nama yang dimasukan sudah terdaftar maka harus menggunakan nama lain
+
+![{242CC9B1-7D91-434B-AAE8-73A509C56F75}](https://github.com/user-attachments/assets/b13a2c61-6264-4071-8592-a6c74e207125)
+
 # Keluar
 
 ![image](https://github.com/user-attachments/assets/8b043580-deab-4bcb-8f7b-b3fa89949bb3)
