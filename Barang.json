@@ -1,0 +1,34 @@
+{
+    "Barang": [
+        {
+            "nomor_barang": "1",
+            "nama_barang": "Piano",
+            "harga_per_hari": "15000",
+            "stok": "0"
+        },
+        {
+            "nomor_barang": "2",
+            "nama_barang": "Gitar",
+            "harga_per_hari": "10000",
+            "stok": "8"
+        },
+        {
+            "nomor_barang": "3",
+            "nama_barang": "Bass",
+            "harga_per_hari": "17000",
+            "stok": "4"
+        },
+        {
+            "nomor_barang": "4",
+            "nama_barang": "Drum",
+            "harga_per_hari": "20000",
+            "stok": "2"
+        },
+        {
+            "nomor_barang": "5",
+            "nama_barang": "Kyboard",
+            "harga_per_hari": "25000",
+            "stok": "2"
+        }
+    ]
+}
