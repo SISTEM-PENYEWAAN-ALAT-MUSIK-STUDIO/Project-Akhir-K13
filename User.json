@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "username": "Admin",
+            "password": "admin123",
+            "role": "admin"
+        },
+        {
+            "username": "Mustafa",
+            "password": "penyewa123",
+            "role": "penyewa",
+            "saldo": 55000
+        },
+        {
+            "username": "Rafi",
+            "password": "rafi123",
+            "role": "penyewa",
+            "saldo": "0"
+        },
+        {
+            "username": "Deny",
+            "password": "12345",
+            "role": "penyewa",
+            "saldo": "0"
+        },
+        {
+            "username": "rizky",
+            "password": "rizky",
+            "role": "penyewa",
+            "saldo": "0"
+        }
+    ]
+}
